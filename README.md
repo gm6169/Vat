@@ -1,2 +1,4 @@
-# gm6169_s_Survival_Modpack
-A minecraft modpack that combines optimization and survival
+# Introduction
+Welcome to play gm6169's Survival Modpack!\
+This is a Minecraft Modpack that combines optimization and survival.
+# Content
