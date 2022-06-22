@@ -19,3 +19,4 @@ If you have a problem in your play, please submit an issue [here](https://github
 There are three versions of gm6169's Survival Modpack: ***Alpha, Beta, and Release.
 Pay attention! Alpha version belongs to the internal test version. There may be unknown errors. Please use it with caution! If you want to use it, please manually install the corresponding version of [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/) or [Fabric](https://fabricmc.net/). The Alpha version is not automatically installed***.\
 And **the Beta version is the test version, and the Release version(It is not marked on the file, but is hidden) is the official version**.
+# Installation
