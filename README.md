@@ -2,7 +2,7 @@ gm6169's Survival Modpack
 ====
 Welcome to play gm6169's Survival Modpack!\
 This is a Minecraft Modpack that **combines optimization and survival**.\
-![preview](https://s1.ax1x.com/2022/06/21/jSFJOI.jpg)
+![preview](https://s1.ax1x.com/2022/06/20/Xvilpn.jpg)
 This Modpack use [**BSD-3-Clause license**](https://github.com/gm6169/gm6169_s_Survival_Modpack/blob/main/LICENSE), **Others are prohibited from using the names of the Project or its contributors to promote derivative works without written consent**. Please be informed.
 # Content
 gm6169's Survival Modpack has **60+ mods** in total.\
