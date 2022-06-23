@@ -12,11 +12,24 @@ Here are some introductions to the optimization mods:
 * [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)&[Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor):Do you know the "optimized three-piece suit"? Yes, it's "[sodium](https://www.curseforge.com/minecraft/mc-mods/sodium), [lithium](https://www.curseforge.com/minecraft/mc-mods/lithium), [phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor)". [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) Changed some of the mechanics of the vanilla minecraft, such as:the AI optimization of monsters. [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) Optimized for Minecraft's lighting system, and it makes the world boot up faster!
 * [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)&Render Optimization mods:The vanilla minecraft will render things that players can't see, which makes it very slow to play Minecraft on low-equipped devices:pensive:.This mod solves this problem by optimizing the entity culling.It **allows players to not render where they can't see, thus improving performance and making it smoother**. There are also some rendering optimization mods: [Fastchest](https://www.curseforge.com/minecraft/mc-mods/fastchest) and so on. There is also a configurable optimization mod that is also a functional mod: [tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo)
 ![FPS Boost](https://s1.ax1x.com/2022/06/22/jpaORU.jpg)
-# Code
-gm6169's Survival Modpack is **open source and you can download the source code on the [Releases page](https://github.com/gm6169/gm6169_s_Survival_Modpack/releases)**
 # ⚠️Warning
 If you have a problem in your play, please submit an issue [here](https://github.com/gm6169/gm6169_s_Survival_Modpack/issues).\
 There are three versions of gm6169's Survival Modpack: ***Alpha, Beta, and Release.
 Pay attention! Alpha version belongs to the internal test version. There may be unknown errors. Please use it with caution! If you want to use it, please manually install the corresponding version of [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/) or [Fabric](https://fabricmc.net/). The Alpha version is not automatically installed***.\
 And **the Beta version is the test version, and the Release version(It is not marked on the file, but is hidden) is the official version**.
-# Installation
+# Frequently Asked Question
+* Ask-1:Do you plan to develop a [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/) version?
+* Reply-1:Yes, but not many versions will be developed. To be honest, although this modpack may play Minecraft very stuttering, so optimization is very important at this time.Optimization can be divided into: system optimization, mod optimization,and so on.Among them, if the system optimization has not yet met your needs,then mod optimization is the best choice, because Minecraft itself will have problems.This is also my original intention of making this modpack,to make everyone's experience better!
+* Ask-2:Ready to develop a [Quilt](https://quiltmc.org/) version?
+* Reply-2:Under development! The Quilt era has arrived, and more and more mods begin to support Quilt. Because Quilt is based on Fabric, I hope the development of Quilt will be smooth sailing!
+[![Quilt Logo](https://s1.ax1x.com/2022/06/23/jP9jeI.png)](https://quiltmc.org/)
+* Ask-3:Do you think it is necessary to do the modpack for the [bedrock edition](https://www.minecraft.net/zh-hans/store/minecraft-java-bedrock-edition-pc)?
+* Reply-3:I don't think it's necessary! Because the [bedrock edition](https://www.minecraft.net/zh-hans/store/minecraft-java-bedrock-edition-pc) runs very smoothly, low-profile equipment can also run smoothly, plus the mod can also be very smooth!
+* Ask-4:Is this modpack open source?
+* Reply-4:Yes, it's open source. You can download its source code on the [Releases page](https://github.com/gm6169/gm6169_s_Survival_Modpack/releases).
+# Develop
+I am developing gm6169's Survival Modpack, welcome everyone to help me develop together, can contact my email: hushengming2011@outlook.com\
+Or hushengming2011@gmail.com
+# Related Link
+Find me on mcmod:[Click here](https://center.mcmod.cn/384810/)(Chinese)\
+Find me on mcbbs:[Click here](https://www.mcbbs.net/home.php?mod=space&uid=4719733)(Chinese)\
