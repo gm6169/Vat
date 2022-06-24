@@ -30,6 +30,4 @@ And **the Beta version is the test version, and the Release version(It is not ma
 # Develop
 I am developing gm6169's Survival Modpack, welcome everyone to help me develop together, can contact my email: hushengming2011@outlook.com\
 Or hushengming2011@gmail.com
-# Related Link
-Find me on mcmod:[Click here](https://center.mcmod.cn/384810/)(Chinese)\
-Find me on mcbbs:[Click here](https://www.mcbbs.net/home.php?mod=space&uid=4719733)(Chinese)\
+# Installation
