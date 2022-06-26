@@ -1,7 +1,10 @@
 gm6169's Survival Modpack
 ====
 Welcome to play gm6169's Survival Modpack!\
-This is a Minecraft Modpack that **combines optimization and survival**.\
+This is a minecraft forge/fabric/quilt modpack that **combines optimization and survival**.\
+![Forge Loader](https://s1.ax1x.com/2022/06/26/jAHaAU.jpg)
+![Fabric Loader](https://s1.ax1x.com/2022/06/26/jA7zm6.jpg)
+![Quilt Loader](https://s1.ax1x.com/2022/06/26/jAHRAO.jpg)
 ![preview](https://s1.ax1x.com/2022/06/20/Xvilpn.jpg)
 This Modpack use [**BSD-3-Clause license**](https://github.com/gm6169/gm6169_s_Survival_Modpack/blob/main/LICENSE), **Others are prohibited from using the names of the Project or its contributors to promote derivative works without written consent**. Please be informed.
 # Content
