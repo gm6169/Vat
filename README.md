@@ -25,7 +25,6 @@ And **the Beta version is the test version, and the Release version(It is not ma
 * Reply-1:Yes, but not many versions will be developed. To be honest, although this modpack may play Minecraft very stuttering, so optimization is very important at this time.Optimization can be divided into: system optimization, mod optimization,and so on.Among them, if the system optimization has not yet met your needs,then mod optimization is the best choice, because Minecraft itself will have problems.This is also my original intention of making this modpack,to make everyone's experience better!
 * Ask-2:Ready to develop a [Quilt](https://quiltmc.org/) version?
 * Reply-2:Under development! The Quilt era has arrived, and more and more mods begin to support Quilt. Because Quilt is based on Fabric, I hope the development of Quilt will be smooth sailing!
-[![Quilt Logo](https://s1.ax1x.com/2022/06/23/jP9jeI.png)](https://quiltmc.org/)
 * Ask-3:Do you think it is necessary to do the modpack for the [bedrock edition](https://www.minecraft.net/zh-hans/store/minecraft-java-bedrock-edition-pc)?
 * Reply-3:I don't think it's necessary! Because the [bedrock edition](https://www.minecraft.net/zh-hans/store/minecraft-java-bedrock-edition-pc) runs very smoothly, low-profile equipment can also run smoothly, plus the mod can also be very smooth!
 * Ask-4:Is this modpack open source?
