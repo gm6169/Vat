@@ -32,4 +32,9 @@ And **the Beta version is the test version, and the Release version(It is not ma
 # Develop
 I am developing gm6169's Survival Modpack, welcome everyone to help me develop together, can contact my email: hushengming2011@outlook.com\
 Or hushengming2011@gmail.com
+# Requirement
+Make sure **you have [Java](https://www.java.com) installed on your computer. [Java 8](https://www.java.com/download) is required for 1.16 and below, [Java 16](https://www.oracle.com/java/technologies/javase/jdk16-archive-downloads.html) for 1.17, and [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) for 1.18.:warning:Attention, please! Do not install randomly, please install according to your computer system and operating system(32-bit or 64-bit)**.\
+After that, *make sure you have a minecraft launcher: [MultiMC](https://multimc.org/), [ATLauncher](https://atlauncher.com/), Technic and so on*.
+Automatic installation: Just import the file into the launcher and install it automatically!\
+Manual installation: First install [Fabric](https://fabricmc.net/), and then move the mods of the modpack to the mods folder.
 # Installation
