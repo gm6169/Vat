@@ -36,4 +36,7 @@ Make sure **you have [Java](https://www.java.com) installed on your computer. [J
 After that, *make sure you have a minecraft launcher: [MultiMC](https://multimc.org/), [ATLauncher](https://atlauncher.com/), Technic and so on*.
 Automatic installation: Just import the file into the launcher and install it automatically!\
 Manual installation: First install [Fabric](https://fabricmc.net/), and then move the mods of the modpack to the mods folder.
+# Sponsor
+I don't have a pateron, *but you can sponsor me through this website:[https://afdian.net/@GSSM_](https://afdian.net/@GSSM_)*(Chinese)\
+通过afdian爱发电给我赞助！[点击这里](https://afdian.net/@GSSM_)
 # Installation
