@@ -18,8 +18,7 @@ Here are some introductions to the optimization mods:
 # ⚠️Warning
 If you have a problem in your play, please submit an issue [here](https://github.com/gm6169/gm6169_s_Survival_Modpack/issues).\
 There are three versions of gm6169's Survival Modpack: ***Alpha, Beta, and Release.
-Pay attention! Alpha version belongs to the internal test version. There may be unknown errors. Please use it with caution! If you want to use it, please manually install the corresponding version of [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/) or [Fabric](https://fabricmc.net/). The Alpha version is not automatically installed***.\
-And **the Beta version is the test version, and the Release version(It is not marked on the file, but is hidden) is the official version**.
+Pay attention! Alpha version belongs to the internal test version. There may be unknown errors. Please use it with caution!* And **the Beta version is the test version, and the Release version(It is not marked on the file, but is hidden) is the official version**.
 # Frequently Asked Question
 * Ask-1:Do you plan to develop a [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/) version?
 * Reply-1:Yes, but not many versions will be developed. To be honest, although this modpack may play Minecraft very stuttering, so optimization is very important at this time.Optimization can be divided into: system optimization, mod optimization,and so on.Among them, if the system optimization has not yet met your needs,then mod optimization is the best choice, because Minecraft itself will have problems.This is also my original intention of making this modpack,to make everyone's experience better!
