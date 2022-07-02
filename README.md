@@ -28,6 +28,8 @@ Pay attention! Alpha version belongs to the internal test version. There may be 
 * Reply-3:I don't think it's necessary! Because the [bedrock edition](https://www.minecraft.net/zh-hans/store/minecraft-java-bedrock-edition-pc) runs very smoothly, low-profile equipment can also run smoothly, plus the mod can also be very smooth!
 * Ask-4:Is this modpack open source?
 * Reply-4:Yes, it's open source. You can download its source code on the [Releases page](https://github.com/gm6169/gm6169_s_Survival_Modpack/releases).
+* Ask-5:What should I do if I want **to recommend this modpack to others**?
+* Reply-5:We encourage you to recommend to others so that more people can play! But please note:warning:: ***when you recommend to others, please do not upload to the network disk, please give him the official link. If you violate this rule, you will not be able to share with others at will!***
 # Develop
 I am developing gm6169's Survival Modpack, welcome everyone to help me develop together, can contact my email: hushengming2011@outlook.com\
 Or hushengming2011@gmail.com
