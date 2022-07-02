@@ -28,7 +28,7 @@ Pay attention! Alpha version belongs to the internal test version. There may be 
 * Reply-3:I don't think it's necessary! Because the [bedrock edition](https://www.minecraft.net/zh-hans/store/minecraft-java-bedrock-edition-pc) runs very smoothly, low-profile equipment can also run smoothly, plus the mod can also be very smooth!
 * Ask-4:Is this modpack open source?
 * Reply-4:Yes, it's open source. You can download its source code on the [Releases page](https://github.com/gm6169/gm6169_s_Survival_Modpack/releases).
-* Ask-5:What should I do if I want **to recommend this modpack to others**?
+* Ask-5:What should I do if I want to recommend this modpack to others?
 * Reply-5:We encourage you to recommend to others so that more people can play! But please note:warning:: ***when you recommend to others, please do not upload to the network disk, please give him the official link. If you violate this rule, you will not be able to share with others at will!***
 # Develop
 I am developing gm6169's Survival Modpack, welcome everyone to help me develop together, can contact my email: hushengming2011@outlook.com\
@@ -41,4 +41,5 @@ Manual installation: First install [Fabric](https://fabricmc.net/), and then mov
 # Sponsor
 I don't have a pateron, *but you can sponsor me through this website:[https://afdian.net/@GSSM_](https://afdian.net/@GSSM_)*(Chinese)\
 通过afdian爱发电给我赞助！[点击这里](https://afdian.net/@GSSM_)
+Not easy to develop，制作不易！
 # Installation
