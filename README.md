@@ -40,5 +40,5 @@ Automatic installation: Just import the file into the launcher and install it au
 Manual installation: First install [Fabric](https://fabricmc.net/), and then move the mods of the modpack to the mods folder.
 # Sponsor
 I don't have a pateron, *but you can sponsor me through this website:[https://afdian.net/@GSSM_](https://afdian.net/@GSSM_)*(Chinese)\
-通过afdian爱发电给我赞助！[https://afdian.net/@GSSM_)](https://afdian.net/@GSSM_)
+通过afdian爱发电给我赞助！[https://afdian.net/@GSSM_](https://afdian.net/@GSSM_)
 # Installation
