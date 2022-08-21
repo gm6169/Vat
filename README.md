@@ -19,7 +19,7 @@ Here are some introductions to the optimization mods:
 ![FPS Boost](https://s1.ax1x.com/2022/06/22/jpaORU.jpg)
 # ⚠️Warning
 If you have a problem in your play, please submit an issue [here](https://github.com/gm6169/Vat/issues).\
-There are three versions of Vat: ***Alpha, Beta, and Release.
+There are three versions of Vat: Alpha, Beta, and Release.
 Pay attention! Alpha version belongs to the internal test version. There may be unknown errors. Please use it with caution!* And **the Beta version is the test version, and the Release version(It is not marked on the file, but is hidden) is the official version**.
 # Frequently Asked Question
 * Ask-1:Do you plan to develop a [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/) version?
