@@ -6,11 +6,10 @@ Welcome to play Vat!\
 This is a minecraft forge/fabric modpack that **combines optimization and survival**.\
 ![Forge Loader](https://s1.ax1x.com/2022/06/26/jAHaAU.jpg)
 ![Fabric Loader](https://s1.ax1x.com/2022/06/26/jA7zm6.jpg)
-![Quilt Loader](https://s1.ax1x.com/2022/06/26/jAHRAO.jpg)
 ![preview](https://s1.ax1x.com/2022/06/20/Xvilpn.jpg)
 This Modpack use [**BSD-3-Clause license**](https://github.com/gm6169/Vat/blob/main/LICENSE), **Others are prohibited from using the names of the Project or its contributors to promote derivative works without written consent**. Please be informed.
 # Content
-Vat has **60+ mods** in total.\
+Vat has **70+ mods** in total.\
 [**Click here**](https://github.com/gm6169/Vat/blob/main/modlist.md) to view all mods.\
 Here are some introductions to the optimization mods:
 * [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium):[Fabric](https://fabricmc.net/)'s best-known and most effective optimization mod! It **optimizes the rendering of Minecraft so that low-end devices can run Minecraft smoothly**.
