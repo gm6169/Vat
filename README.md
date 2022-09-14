@@ -1,7 +1,7 @@
 Vat
 ====
 🌏***Languages Choose***:\
-[**English**](https://github.com/gm6169/Vat#readme) | [简体中文](https://github.com/gm6169/Vat/blob/main/README-Simplified%20Chinese.md) | [繁體中文](https://github.com/gm6169/Vat/blob/main/README-Traditional%20Chinese.md)\
+[**English**](https://github.com/gm6169/Vat#readme) | [简体中文](https://github.com/gm6169/Vat/blob/main/README-Simplified%20Chinese.md)\
 Welcome to play Vat!\
 This is a minecraft forge/fabric modpack that **combines optimization and survival**.\
 ![Forge Loader](https://s1.ax1x.com/2022/06/26/jAHaAU.jpg)
