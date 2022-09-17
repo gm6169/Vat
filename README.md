@@ -38,6 +38,6 @@ After that, *make sure you have a minecraft launcher: [MultiMC](https://multimc.
 Automatic installation: Just import the file into the launcher and install it automatically!\
 Manual installation: First install [Fabric](https://fabricmc.net/), and then move the mods of the modpack to the mods folder.
 # Sponsor
-I don't have a pateron, *but you can sponsor me through this website:[https://afdian.net/@GSSM_](https://afdian.net/@GSSM_)*(Chinese)\
-通过afdian爱发电给我赞助！[https://afdian.net/@GSSM_](https://afdian.net/@GSSM_)
+I don't have a pateron, *but you can sponsor me through this website:[https://afdian.net/a/gm6169](https://afdian.net/a/gm6169)*(Chinese)\
+通过afdian爱发电给我赞助！[https://afdian.net/a/gm6169](https://afdian.net/a/gm6169)
 # Installation
