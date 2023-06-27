@@ -41,3 +41,4 @@ Manual installation: First install [Fabric](https://fabricmc.net/), and then mov
 I don't have a pateron, *but you can sponsor me through this website:[https://afdian.net/a/gm6169](https://afdian.net/a/gm6169)*(Chinese)\
 通过afdian爱发电给我赞助！[https://afdian.net/a/gm6169](https://afdian.net/a/gm6169)
 # Installation
+You can download the version you need from [Releases](https://github.com/gm6169/Vat/releases) in this GitHub repository.
